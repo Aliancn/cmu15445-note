@@ -1,3 +1,3 @@
-# Headline
+# 👋 cmu-15445 2023 spring 
 
-> An awesome project.
+> lecture note in chinese
